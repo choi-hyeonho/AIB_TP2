@@ -8,3 +8,6 @@
 
 분석 및 시각화 아카이브 :</br>
 https://www.notion.so/Doctor-EDA-8fcf9f1d0b944260a2032e991933ee92
+
+1차 보고서:
+https://url.kr/n4tjr1
