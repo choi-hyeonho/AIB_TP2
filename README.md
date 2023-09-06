@@ -5,3 +5,5 @@
 활용법</br>
 다른 팀원이 코드를 자유롭게 참고할 수 있도록 </br>
 각자의 브랜치에 업로드하기</br>
+
+https://www.notion.so/Doctor-EDA-8fcf9f1d0b944260a2032e991933ee92
